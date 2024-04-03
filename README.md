@@ -1,6 +1,7 @@
 Lexical Analyzer
 ===
 
-![Preview](https://raw.githubusercontent.com/vovchic17/static/main/src/lexical_analyzer_preview.gif)
+Windows Forms Application for input characters sequences
+validation using finite state machine written in C++ CLR
 
-The application can validate sequences of input characters based using finite state machine.
+![Preview](https://raw.githubusercontent.com/vovchic17/static/main/src/lexical_analyzer_preview.gif)
